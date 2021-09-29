@@ -3,3 +3,5 @@ Shirley Qin 1004555297
 Xinyi Huang
 
 dataset link: https://studentlife.cs.dartmouth.edu/dataset.html
+
+Phase 1 document(Google Docs link): https://docs.google.com/document/d/1Veb-tHZVd_u2h884gmdGRAIBDVm3SS7c8OAcYWtQtc0/edit?usp=sharing
