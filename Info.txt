@@ -1,3 +1,5 @@
 Group members:
 Shirley Qin 1004555297
 Xinyi Huang
+
+dataset link: https://studentlife.cs.dartmouth.edu/dataset.html
